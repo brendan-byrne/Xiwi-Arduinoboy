@@ -1,0 +1,49 @@
+
+#	Item		Mouser Part # / URL	Notes
+----------------------------------------------------------------------------
+1	ATMEGA328P	556-ATMEGA328P-PU	Burn Bootloader. Flash chip
+1	6N138		859-6N138
+	
+1	28-pin Socket	571-1-390262-2		
+1 	8-pin Socket	571-1825093-2
+
+1	16 Mhz Crystal	559-FOXS160-20-LF
+1	7805 V Reg	863-NCP7805TG
+
+1 	1N914 Diode	512-1N914		Can be most any small signal diode
+
+2	220 Resistor	291-220-RC
+1	270 Resistor	291-270-RC
+1	4.7K Resistor	291-4.7K-RC
+1	2k Resistor	291-2K-RC		Pull-down Resistor. 1K+ Value
+6	2.2K Resistor	291-2.2K-RC		LED Brightness. Personal Preference
+
+6 	3mm LEDs	604-WP3A8GD		Any color
+
+1 	1uf Capacitor	661-EKMA500ETC1R0MD0
+2	22pf Capacitor	140-50N2-220J-RC
+
+3 	MIDI Jacks	161-0504-E
+1	2.1mm Jack	502-RAPC722X
+1	Pushbutton	URL - bit.ly/1naxZhZ	Change Laser file to fit your button
+
+1	MIDI Plug	171-0275
+1 	DMG Link Cable	URL - bit.ly/MtgLkj
+
+4	1/4" 4-40 Flat	URL - bit.ly/Mtf0ne	Screws for Bottomplate
+4 	3/8" 4-40 Flat	URL - bit.ly/Mtf0ne	Screws for Faceplate
+4	Hex Nut 4-40	URL - bit.ly/1eUcsFM	Btwn Faceplate and PCB
+4	Hex Standoff	761-2108T-440-AL-7
+
+4 	Rubber Feet	URL - bit.ly/1isiEZS
+
+1  	Xiwi Arduinoboy PCB
+1  	Xiwi Acrylic Arduinoboy Faceplate
+1  	Xiwi Acrylic Arduinoboy Bottomplate
+
+820 Ohm - Orange
+10k Ohm - Blue
+2K Ohm - Green
+
+
+
