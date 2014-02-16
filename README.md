@@ -6,7 +6,7 @@ Arduinoboy Google Code Page -  <a href="tiny.cc/bkz4xw">tiny.cc/bkz4xw</a>
 
 Based on the Arduino platform, this device allows for MIDI signals to be sent and received by software such as Nanoloop, LSDJ, and mGB running on the Nintendo Gameboy.
 
-Arduinoboy was developed and released under the GNU General Public License by Timothy Lamb in fall of 2008.
+Arduinoboy was developed and released under the GNU General Public License by Timothy Lamb in 2008.
 
 # Files #
 **Arduinoboy Code** : Contains the original AB code written by Timothy Lamb. Upload/access via Arduino<br />
