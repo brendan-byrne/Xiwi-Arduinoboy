@@ -9,8 +9,6 @@ Based on the Arduino platform, this device allows for MIDI signals to be sent an
 Arduinoboy was developed and released under the GNU General Public License by Timothy Lamb in fall of 2008.
 
 ![](http://cdn.shopify.com/s/files/1/0236/0629/products/IMG_2232_1024x1024.JPG?v=1391447348)
-=======
-Arduinoboy was developed and released under the GNU General Public License by Timothy Lamb in 2008.
 
 # Files #
 **Arduinoboy Code** : Contains the original AB code written by Timothy Lamb. Upload/access via Arduino<br />
